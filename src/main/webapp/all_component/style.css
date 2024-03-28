@@ -1,0 +1,9 @@
+
+
+.navbar .nav-link {
+	background-image: url("Images/100mbps.jpg");
+	background-color: white;
+	color: #303f9f;
+	border-radius: 15px;
+}
+
